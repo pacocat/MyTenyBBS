@@ -1,0 +1,1826 @@
+=head2 Wed Nov 13 12:37:43 2013: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:37:44 2013: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:37:53 2013: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:37:57 2013: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:00 2013: C<Module> L<Hash::MultiValue|Hash::MultiValue>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:08 2013: C<Module> L<Test::SharedFork|Test::SharedFork>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:14 2013: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:22 2013: C<Module> L<IO::HTML|IO::HTML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:24 2013: C<Module> L<HTTP::Date|HTTP::Date>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:27 2013: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:29 2013: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:30 2013: C<Module> L<HTTP::Message|HTTP::Message>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:36 2013: C<Module> L<Test::Tester|Test::Tester>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.109>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:38 2013: C<Module> L<Test::NoWarnings|Test::NoWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:39 2013: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.110>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:40 2013: C<Module> L<HTTP::Body|HTTP::Body>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:43 2013: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:47 2013: C<Module> L<HTTP::Tiny|HTTP::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.037>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:50 2013: C<Module> L<Stream::Buffered|Stream::Buffered>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:54 2013: C<Module> L<Devel::StackTrace::AsHTML|Devel::StackTrace::AsHTML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:38:59 2013: C<Module> L<Filesys::Notify::Simple|Filesys::Notify::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:00 2013: C<Module> L<Plack|Plack>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0029>
+
+=item *
+
+C<EXE_FILES: script/plackup>
+
+=back
+
+=head2 Wed Nov 13 12:39:11 2013: C<Module> L<File::Slurp|File::Slurp>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 9999.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:13 2013: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:21 2013: C<Module> L<Algorithm::Diff|Algorithm::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1902>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:22 2013: C<Module> L<Text::Diff|Text::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:25 2013: C<Module> L<Test::Time|Test::Time>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:35 2013: C<Module> L<HTTP::Server::Simple|HTTP::Server::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:40 2013: C<Module> L<HTML::Tagset|HTML::Tagset>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:44 2013: C<Module> L<HTML::Parser|HTML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.71>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:49 2013: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:55 2013: C<Module> L<File::Temp|File::Temp>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2304>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:39:56 2013: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:07 2013: C<Module> L<HTTP::Cookies|HTTP::Cookies>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:11 2013: C<Module> L<File::Listing|File::Listing>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:13 2013: C<Module> L<WWW::RobotRules|WWW::RobotRules>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:15 2013: C<Module> L<HTTP::Negotiate|HTTP::Negotiate>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:18 2013: C<Module> L<HTTP::Daemon|HTTP::Daemon>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:21 2013: C<Module> L<Net::HTTP|Net::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:22 2013: C<Module> L<LWP|LWP>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.05>
+
+=item *
+
+C<EXE_FILES: bin/lwp-request bin/lwp-mirror bin/lwp-download bin/lwp-dump>
+
+=back
+
+=head2 Wed Nov 13 12:40:25 2013: C<Module> L<HTML::Form|HTML::Form>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:27 2013: C<Module> L<WWW::Mechanize|WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.73>
+
+=item *
+
+C<EXE_FILES: bin/mech-dump>
+
+=back
+
+=head2 Wed Nov 13 12:40:29 2013: C<Module> L<Test::LongString|Test::LongString>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:34 2013: C<Module> L<Carp::Assert|Carp::Assert>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:37 2013: C<Module> L<Carp::Assert::More|Carp::Assert::More>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:38 2013: C<Module> L<Test::WWW::Mechanize|Test::WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:39 2013: C<Module> L<Test::WWW::Mechanize::PSGI|Test::WWW::Mechanize::PSGI>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:41 2013: C<Module> L<Digest::HMAC|Digest::HMAC>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:50 2013: C<Module> L<Mouse|Mouse>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.0.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:54 2013: C<Module> L<Digest::SHA1|Digest::SHA1>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:40:59 2013: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.90>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:06 2013: C<Module> L<Class::Accessor::Lite|Class::Accessor::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:15 2013: C<Module> L<ExtUtils::Config|ExtUtils::Config>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:16 2013: C<Module> L<ExtUtils::InstallPaths|ExtUtils::InstallPaths>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:19 2013: C<Module> L<ExtUtils::Helpers|ExtUtils::Helpers>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.021>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:25 2013: C<Module> L<Test::Harness|Test::Harness>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.30>
+
+=item *
+
+C<EXE_FILES: bin/prove>
+
+=back
+
+=head2 Wed Nov 13 12:41:34 2013: C<Module> L<File::Copy::Recursive|File::Copy::Recursive>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:39 2013: C<Module> L<Data::MessagePack|Data::MessagePack>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:42 2013: C<Module> L<Text::Xslate|Text::Xslate>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.0.1>
+
+=item *
+
+C<EXE_FILES: script/xslate>
+
+=back
+
+=head2 Wed Nov 13 12:41:48 2013: C<Module> L<Module::CPANfile|Module::CPANfile>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0002>
+
+=item *
+
+C<EXE_FILES: script/cpanfile-dump script/mymeta-cpanfile>
+
+=back
+
+=head2 Wed Nov 13 12:41:51 2013: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:41:55 2013: C<Module> L<Plack::Middleware::ReverseProxy|Plack::Middleware::ReverseProxy>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:42:01 2013: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:42:27 2013: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.630>
+
+=item *
+
+C<EXE_FILES: dbiproxy dbiprof dbilogstrip>
+
+=back
+
+=head2 Wed Nov 13 12:42:53 2013: C<Module> L<DBD::SQLite|DBD::SQLite>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:03 2013: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:06 2013: C<Module> L<Proc::Wait3|Proc::Wait3>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:08 2013: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:08 2013: C<Module> L<Parallel::Prefork|Parallel::Prefork>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:12 2013: C<Module> L<Server::Starter|Server::Starter>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: start_server>
+
+=back
+
+=head2 Wed Nov 13 12:43:13 2013: C<Module> L<Starlet|Starlet>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:18 2013: C<Module> L<DBIx::TransactionManager|DBIx::TransactionManager>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:25 2013: C<Module> L<Module::Implementation|Module::Implementation>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:30 2013: C<Module> L<Sub::Install|Sub::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.927>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:34 2013: C<Module> L<Params::Util|Params::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:34 2013: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.108>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:41 2013: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:45 2013: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:46 2013: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Wed Nov 13 12:43:47 2013: C<Module> L<Class::Load|Class::Load>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:50 2013: C<Module> L<Test::Mock::Guard|Test::Mock::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:43:55 2013: C<Module> L<Class::Accessor|Class::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Nov 13 12:44:02 2013: C<Module> L<Data::Page::NoTotalEntries|Data::Page::NoTotalEntries>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/paco/programing/amon2/TenyBBS/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

@@ -1,0 +1,9 @@
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/Condition.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/Plugin/InsertMulti.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/Plugin/InsertOnDuplicate.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/SQLType.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/Select.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/Select/Oracle.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/SelectSet.pm
+/Users/paco/programing/amon2/TenyBBS/local/lib/perl5/SQL/Maker/Util.pm
