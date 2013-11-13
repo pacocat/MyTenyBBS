@@ -4,7 +4,7 @@
 # my $dbpath = File::Spec->catfile($basedir, 'db', 'development.db');
 +{
     'DBI' => [
-        "dbi:mysql:tenybbs", 'root', 'paco1729',
+        "dbi:mysql:tenybbs", 'user', 'pass',
         +{ mysql_enable_utf8 => 1 },
     ],
 };
