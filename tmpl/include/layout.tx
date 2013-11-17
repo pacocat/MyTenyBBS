@@ -17,7 +17,11 @@
     <script src="<: uri_for('/static/js/micro-location.js') :>"></script>
     <script src="<: uri_for('/static/js/micro_dispatcher.js') :>"></script>
     <link href="<: static_file('/static/css/main.css') :>" rel="stylesheet" type="text/css" media="screen" />
+    <link href="<: static_file('/static/css/bootstrap.js') :>" rel="stylesheet" type="text/css" media="screen" />
+    <link href="<: static_file('/static/css/bootstrap.min.js') :>" rel="stylesheet" type="text/css" media="screen" />
     <script src="<: static_file('/static/js/main.js') :>"></script>
+    <script src="<: static_file('/static/js/bootstrap.js') :>"></script>
+    <script src="<: static_file('/static/js/bootstrap.min.js') :>"></script>
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -42,9 +46,9 @@
         <div id="main">
             <: block content -> { } :>
         </div>
-        <footer class="footer">
+<!--         <footer class="footer">
             Powered by <a href="http://amon.64p.org/">Amon2</a>
-        </footer>
+        </footer> -->
     </div>
 </body>
 </html>

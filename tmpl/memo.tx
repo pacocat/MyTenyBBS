@@ -4,20 +4,28 @@
 
 <h2>BBS</h2>
 
-<h2>Thread No.<: $entries[0].threadid :></h2>
-: for $entries -> $entry {
-: if ($entry.threadid == 1){
-"<: $entry.text :>" by <: $entry.name :><br>
-: }
-: }
-<form method="post" action="<: uri_for('memo/insert') :>">
-  <input type="hidden" name="threadid" value="1" />
-  Name: <input type="text" name="name" size="40" value="name"><br>
-  Comments:<br>
-  <textarea name="text" rows="3">This is a comment.</textarea><br>
-  <input type="submit" value="Submit">
-</form>
+<!-- <p class="text-danger">thread:<: $thread_list :></p>
+<p class="text-danger">entry:<: $entry_list :></p>
+ -->
 
+
+: for $thread_list -> $thread {
+	<table class="table">
+		<tr>
+			<th class="col-md-2 danger">upadated at <: $thread.updated_at :></th><th class="col-md-6 danger">Title: <: $thread.title :></th>
+		</tr>
+		<tr>
+			<td class="warning"></td><td class="warning"><: $thread.content :></td>
+		</tr>
+		: for $entry_list -> $entry{
+		: if ($entry.thread_id == $thread.id){
+		<tr>
+			<td class="col-md-2 success"><: $entry.author_name :></td><td class="col-md-6 success"><: $entry.content :></td>
+		</tr>
+		: }
+		: }
+	<br>
+: }
 
 
 : }

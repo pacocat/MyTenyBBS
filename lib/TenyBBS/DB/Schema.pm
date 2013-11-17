@@ -8,9 +8,15 @@ use Teng::Schema::Declare;
 base_row_class 'TenyBBS::DB::Row';
 
 table {
-    name 'bbs';
+    name 'threads';
     pk 'id';
-    columns qw(id threadid name text created_date modified_date);
+    columns qw(id title content created_at updated_at);
+};
+
+table {
+    name 'entries';
+    pk 'id';
+    columns qw(id thread_id author_name content created_at updated_at);
 };
 
 1;

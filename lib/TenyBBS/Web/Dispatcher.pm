@@ -9,11 +9,11 @@ any '/' => sub {
     return $c->render('index.tx');
 };
 
-
 get '/memo' => sub {
-my ($c) = @_;
-my @entries = $c->db->show_all;
-return $c->render( 'memo.tx', { entries => \@entries } );
+	my ($c) = @_;
+	my @thread_list = $c->db->fetch_threads;
+	my @entry_list = $c->db->fetch_entries;
+	return $c->render( 'memo.tx', { thread_list => \@thread_list, entry_list => \@entry_list} );
 };
 
 post '/memo/insert' => sub {
